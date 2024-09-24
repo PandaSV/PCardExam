@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PCardExam</string>
+
+<!--    TODO invent better names later-->
+    <string name="title_main">Main Screen</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_signature">Signature</string>
+    <string name="title_receipt">Receipt</string>
+
+
+    <string name="caption_amount">Amount:</string>
+    <string name="caption_payments">Payments:</string>
+    <string name="caption_currency">Currency:</string>
+    <string name="caption_signature">Signature:</string>
+    <string name="caption_submit">Submit</string>
+    <string name="caption_exit">Exit</string>
+    <string name="caption_clear">Clear</string>
+    <string name="caption_finish">Finish</string>
+    <string name="caption_convert">Convert</string>
+
+    <string name="setting_payments">Allow payments</string>
+    <string name="setting_currency">Allow currency:</string>
+    <string name="setting_signature">Allow signature:</string>
+
+
+</resources>
